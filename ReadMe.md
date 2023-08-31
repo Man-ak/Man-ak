@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning/Tensorflow<br><br>🌱 I’m currently studying AI and Data Science at Pune University<br><br>👯 I’m looking to collaborate on Data Science/ML projects<br><br>💬 Ask me about Blender, Stable Diffusion, OpenCV<br><br>⚡ Fun fact - Python is my favorite programming language!
+🔭 I’m currently working on Machine Learning/Tensorflow<br><br>🌱 I’m currently studying AI and Data Science at Pune University<br><br>👯 I’m looking to collaborate on Data Science/ML projects<br><br>💬 Ask me about Python, Streamlit, OpenCV<br>
 
 
 # 💻 Tech Stack:
@@ -9,10 +9,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Man-ak&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Man-ak&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM -->
