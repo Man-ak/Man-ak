@@ -1,5 +1,9 @@
+<h1 align="center"> hi 👋, I'm Manak Jain </h1>
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning/Tensorflow<br><br>🌱 I’m currently studying AI and Data Science at Pune University<br><br>👯 I’m looking to collaborate on Data Science/ML projects<br><br>💬 Ask me about Python, Streamlit, OpenCV<br>
+<img align="right" width = "300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+🔭 I’m currently working on Machine Learning/Tensorflow<br><br>🌱 I’m currently studying AI and Data Science at Pune University<br><br>👯 I’m looking to collaborate on Data Science/ML projects<br><br>💬 Ask me about Python, Streamlit, OpenCV<br><br><br>
+
 
 
 # 💻 Tech Stack:
@@ -12,4 +16,4 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<!-- Proudly created with GPRM -->
+
